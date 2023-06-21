@@ -1,0 +1,112 @@
+[
+    {
+      "id":1,
+      "name": "PHP",
+      "shortDetail": "PHP programming language is open-source and is distributed under the General Public License (GPL). So, it doesn’t require any download, nor do businesses need to pay any licensing fees. Being open-source, PHP has a vast and active community that contributes to a pool of resources and facilities. So, many skilled PHP developers are available in today’s market, and it has become very easy to hire PHP development companies. In addition, due to no licensing fees, businesses can save up on costs by developing their web portals using PHP",
+      "img": "https://www.php.net/images/meta-image.png",
+      "distribution": "16/200",
+      "studyTime":80,
+      "price": 1100,
+      "discount": "35%",
+      "discount_status": false
+    },
+    {
+      "id": 2,
+      "name": "PYTHON",
+      "shortDetail": "Python programming is powering the global job market because the benefits of Python are clear. Python is one of the top three programming languages in the world, and is poised to become the most popular, according to ZDNet. In fact, according to the PYPL Index, Python is the most popular programming language world-wide, so if you want to work in a different country, you have a good chance of landing a job in, say, Switzerland or Australia. Where would you like to work? Adding Python to your skill set could be your ticket to anywhere",
+      "img": "https://codelearn.io/CodeCamp/CodeCamp/Upload/Course/cf55489ccd434e8c81c61e6fffc9433f.jpg",
+      "distribution": "15/200",
+      "studyTime":81,
+      "price": 3300,
+      "discount": "33%",
+      "discount_status": true
+    },
+    {
+      "id": 3,
+      "name": "C++",
+      "shortDetail": "These are the different types of jobs that will help you to make a career in C/C++ which include analysts, embedded engineers, bioinformaticians, etc. A C/C++ analyst is concerned with the design, development, and implementation of computer programs in C and C++. He is responsible for creating beautiful code with the latest technology. Embedded engineer helps design, develop, and maintain embedded systems in products. The role often includes software development. But it also requires knowledge of entire embedded systems",
+      "img": "https://miro.medium.com/v2/resize:fit:1400/1*oFfl-1UKLtd8XOswpwgriA.png",
+      "distribution": "28/200",
+      "studyTime": 102,
+      "price": 2210,
+      "discount": "32%",
+      "discount_status": false
+    },
+    {
+      "id": 4,
+      "name": "JAVA",
+      "shortDetail": "Java is one of the coding languages preferred in mostly all the companies due to its open source and flexibile nature. Most of the programmers know java than any other language which is the reason of high usage of java. Java has all the modern features and gives a high competition to any other new programming languages like Python, despite being a very old programming language. Community of java is very large and one can find many plug ins for java and APIs which makes java very popular",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0CtEevgSjJpnrmm3FZ9f5nLoMhq1-yL_G1g&usqp=CAU",
+      "distribution": "23/200",
+      "studyTime":85,
+      "price": 1650,
+      "discount": "38%",
+      "discount_status": false
+    },
+    {
+      "id": 5,
+      "name": "JAVASCRIPT",
+      "shortDetail": "JavaScript's most popular use is for web development, and it is one of the most powerful tools a developer can have on their toolbelt. Developers use JavaScript in web development to add interactivity and features to improve the user experience and make the internet much more enjoyable",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO9N4EjpWFvYu23g3PPFQzusS4z7gyoXYe2Q&usqp=CAU",
+      "distribution": "10/200",
+      "studyTime": 60,
+      "price": 1490,
+      "discount": "30%",
+      "discount_status": true
+    },
+    {
+      "id": 6,
+      "name": "FLUTTER",
+      "shortDetail": "Well No one really knows whats the Future but I can say for the next 10 years atleast you wouldn’t see any technology replacing flutter considering the growth flutter has shown in a short amount of time. Its not just about the growth but what flutter offers to solve the pain points of developers and at the same time reducing the delivery time to almost half with half the resources and increasing the reach of the app on different platforms is Incredible",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe5SstzY24WeO7chIrSQz7lBP1p63gE4OKiw&usqp=CAU",
+      "distribution": "16/200",
+      "studyTime": 92,
+      "price": 3490,
+      "discount": "33%",
+      "discount_status": false
+    },
+    {
+      "id": 7,
+      "name": "WORDPRESS",
+      "shortDetail": "It’s always a good idea to make your skillset more useful to employers. Developing skills that will help you contribute to website construction and enhancement can offer serious career benefits. You could do an awful lot worse than to add WordPress toolbox. We’ll see exactly what developing WordPress skills can look like, before assessing the impact they can have on your career prospects",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShsMLsz1fqDo1C1_neEDSFWbPjtuUeUZADew&usqp=CAU",
+      "distribution": "18/200",
+      "studyTime":120,
+      "price": 2490,
+      "discount": "25%",
+      "discount_status": true
+    },
+    {
+      "id": 8,
+      "name": "GRAPHIC DESIGN",
+      "shortDetail": "Companies need the services of professional graphic designers to create effective marketing materials, such as brochures, business cards, flyers, banners, etc. Sometimes, resume design services are also needed. Graphic design involves designing and developing logos that can help build brand image.It also involves designing exclusive mobile apps and social media pages to promote and advertise the business. Graphic design is more than just beautification, it is more than just appearance, it has more benefits than making something look beautiful and attractive",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmWb1w9caPa2StExtG7O8sFQt7cjVI_iwEwQ&usqp=CAU",
+      "distribution": "15/200",
+      "studyTime": 90,
+      "price": 3490,
+      "discount": "30%",
+      "discount_status": false
+    },
+    {
+      "id": 9,
+      "name": "REDUX",
+      "shortDetail": "As soon as an application becomes even moderately complex, it becomes unwieldy to pass these state parameters and properties between all the components (typically via a process known as prop drilling). This is where state management tools come into play, enabling developers to view, control and synchronize the ‘global state’ of an application across all of its components",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpcsli2aZfTWOTuiiaMWq-UVc9LFFa8mjVlA&usqp=CAU",
+      "distribution": "18/200",
+      "studyTime": 98,
+      "price": 2560,
+      "discount": "37%",
+      "discount_status": false
+    },
+    {
+      "id": 10,
+      "name": "LARAVEL",
+      "shortDetail": "With the increased popularity of the web as a platform, web development has become imperative for sustainable business growth. It is the best way to inform people of the products and services your business offers and to stay on top of your game with global visibility. However, to leverage these capabilities, you’ll need to hire Laravel developers who can assist you in all the aspects of web development, such as network security, web content development, web designing, web publishing, database management, and more. But hiring the right professional is not as easy as it might seem",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCiNY-G8f-a6onQDENz54K_NBfgxJlFR1tg&usqp=CAU",
+      "distribution": "15/200",
+      "studyTime": 90,
+      "price": 2490,
+      "discount": "30%",
+      "discount_status": true
+    }
+  ]
